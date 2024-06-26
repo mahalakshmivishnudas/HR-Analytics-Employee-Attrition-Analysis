@@ -1,2 +1,9 @@
 ![image](https://github.com/mahalakshmivishnudas/HR-Analytics-Employee-Attrition-Analysis/assets/171481814/2e3e1f99-40bf-43db-b5d2-03538e0984f0)
+Project Overview -
+         The HR Analytics Data project focuses on providing a detailed analysis of key human resources metrics within an organization. Utilizing an advanced HR Analytics Dashboard, this project aggregates data on employee count, attrition rates, average age, and job satisfaction. The dashboard highlights critical insights such as the overall attrition rate of 16.12%, department-wise attrition with the highest turnover in Sales (66.29%), and gender-based attrition analysis. Additionally, it offers a breakdown of employee distribution across various age groups, revealing that the majority are between 27-30 years old. Job satisfaction ratings by role and education field-wise attrition data further enhance the understanding of workforce dynamics. By delivering these insights, the HR Analytics Data project aims to help HR managers identify trends, address areas of concern, optimize retention strategies, and improve overall employee satisfaction and organizational efficiency.
+
+Tools used - Excel, SQL, Tableau
+
+Conclusion - 
+        The HR Analytics Data provides crucial insights into the workforce dynamics of an organization, enabling data-driven decision-making. By analyzing key metrics such as employee count, attrition rates, age distribution, and job satisfaction, this comprehensive tool highlights critical areas that require attention. It helps HR managers identify trends, disparities, and potential issues, facilitating the development of effective retention strategies and initiatives to enhance employee satisfaction and organizational efficiency. Overall, the HR Analytics Data is an invaluable asset for optimizing human resource management and fostering a positive workplace environment.
 
